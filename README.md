@@ -1,6 +1,6 @@
-# ===============================================================
+#
 # 🎮 TASK 1: Hangman Game – CodeAlpha Internship Submission
-# ===============================================================
+# 
 #
 # ✅ Goal:
 # Create a simple text-based Hangman game where the player
